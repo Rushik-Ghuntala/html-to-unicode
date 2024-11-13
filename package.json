@@ -2,6 +2,9 @@
   "name": "html-to-unicode",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "repository": {
+    "url": "https://github.com/Rushik-Ghuntala/html-to-unicode"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
