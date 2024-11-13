@@ -22,3 +22,11 @@ npm install html-to-unicode
 
 ## Usage
 Import the htmlToUnicode function from the package to convert HTML strings to Unicode-styled text.
+![App Screenshot](https://github.com/Rushik-Ghuntala/html-to-unicode/blob/main/assets/HTML-To-Unicode-Text-Converter.png)
+
+## Example Output
+The above code will produce Unicode-styled text with alignment:
+
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit a pull request.
