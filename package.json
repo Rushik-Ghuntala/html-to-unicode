@@ -1,6 +1,6 @@
 {
   "name": "html-to-unicode",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -8,9 +8,11 @@
     "prepare": "npm run build"
   },
   "keywords": [
-    "editor",
+    "html",
     "unicode",
-    "text-editor"
+    "html-to-unicode",
+    "html-to",
+    "text converter"
   ],
   "author": "Rushik Ghuntala",
   "license": "ISC",
