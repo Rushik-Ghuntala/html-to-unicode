@@ -221,9 +221,9 @@ function htmlToUnicode(html: string) {
 
 
 // Example usage
-const normalHtml = `<p>🖋️ <em>Ever felt the power of words?</em></p><p>Just like a good outfit needs the right accessories, great writing requires the right emphasis! 🚀</p><ul><li>✨ <strong>Bold</strong>: Grab attention!</li><li>✨ <em>Italic</em>: Add finesse.</li><li>✨ <u>Underline</u>: Highlight info.</li></ul>`;
-const unicodeHtml = htmlToUnicode(normalHtml);
-console.log(unicodeHtml);
+// const normalHtml = `<p>🖋️ <em>Ever felt the power of words?</em></p><p>Just like a good outfit needs the right accessories, great writing requires the right emphasis! 🚀</p><ul><li>✨ <strong>Bold</strong>: Grab attention!</li><li>✨ <em>Italic</em>: Add finesse.</li><li>✨ <u>Underline</u>: Highlight info.</li></ul>`;
+// const unicodeHtml = htmlToUnicode(normalHtml);
+// console.log(unicodeHtml);
 
 // Export the function
 export { htmlToUnicode };
