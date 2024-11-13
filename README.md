@@ -26,6 +26,9 @@ Import the htmlToUnicode function from the package to convert HTML strings to Un
 
 ## Example Output
 The above code will produce Unicode-styled text with alignment:
+<p align="center">
+  <img src="https://github.com/Rushik-Ghuntala/html-to-unicode/blob/main/assets/Screenshot%20from%202024-11-13%2016-01-08.png" alt="App Screenshot" style="border: 1px solid #ccc; border-radius: 4px;" width="50%">
+</p>
 
 
 ## Contributing
